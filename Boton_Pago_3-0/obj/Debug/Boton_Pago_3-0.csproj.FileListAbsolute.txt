@@ -1,0 +1,22 @@
+D:\Proyectos_Alex\NetAux\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.dll
+D:\Proyectos_Alex\NetAux\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.pdb
+D:\Proyectos_Alex\NetAux\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.dll
+D:\Proyectos_Alex\NetAux\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.pdb
+D:\Disco C\Cronogramas_SPR\COMERCIO ELECTRONICO\Nuevo Botón Pagos - @Core v3\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.dll.config
+D:\Disco C\Cronogramas_SPR\COMERCIO ELECTRONICO\Nuevo Botón Pagos - @Core v3\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.dll
+D:\Disco C\Cronogramas_SPR\COMERCIO ELECTRONICO\Nuevo Botón Pagos - @Core v3\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.pdb
+D:\Disco C\Cronogramas_SPR\COMERCIO ELECTRONICO\Nuevo Botón Pagos - @Core v3\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.csprojResolveAssemblyReference.cache
+D:\Disco C\Cronogramas_SPR\COMERCIO ELECTRONICO\Nuevo Botón Pagos - @Core v3\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.dll
+D:\Disco C\Cronogramas_SPR\COMERCIO ELECTRONICO\Nuevo Botón Pagos - @Core v3\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.pdb
+D:\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.dll.config
+D:\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.dll
+D:\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.pdb
+D:\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.dll
+D:\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.pdb
+D:\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.csprojResolveAssemblyReference.cache
+D:\Data\D\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.dll.config
+D:\Data\D\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.dll
+D:\Data\D\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\bin\Boton_Pago_3-0.pdb
+D:\Data\D\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.csprojResolveAssemblyReference.cache
+D:\Data\D\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.dll
+D:\Data\D\Demos-2012\Boton_Pago_3-0\Boton_Pago_3-0\obj\Debug\Boton_Pago_3-0.pdb
